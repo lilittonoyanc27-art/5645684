@@ -1,0 +1,6 @@
+{
+  "name": "Examen de Lengua Castellana - Իսպաներեն և Գրականություն",
+  "description": "Իսպաներեն լեզվի և գրականության 7-րդ դասարանի քննական պատրաստիչ հայերեն թարգմանությամբ (սեղմիր իսպաներենի վրա՝ հայերեն թարգմանությունը տեսնելու համար):",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
